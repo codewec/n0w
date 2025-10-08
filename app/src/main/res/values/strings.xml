@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">n0w</string>
+    <string name="open_calendar_app">Open Calendar app</string>
+    <string name="no_events">No event</string>
+    <string name="no_access_to_the_calendar">No access to the calendar</string>
+    <string name="allow_access">Allow access</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="tomorrow">Tomorrow</string>
+    <plurals name="event_in_days">
+        <item quantity="one">In %d day</item>
+        <item quantity="other">In %d days</item>
+    </plurals>
+</resources>
